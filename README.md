@@ -28,13 +28,14 @@ An easy way to get started with a Express server offering a REST API with Node.j
   - Method: POST
   - Body: raw + JSON (application/json)
   - Body Content: `{ "language":"ENG" }`
+  
   Postman Collection: https://www.getpostman.com/collections/36b3f8ad61996eb78a70
 
 #### Postman Perforance Test
 
 - Right click on collection 
 - Click on run collection 
-<img src="https://monosnap.com/file/CnFGI8c5YWjm0e4AUnD00JgtdaadxJ" alt="Alt text" title="Optional title">
+<img src="img/Monosnap%20Postman%202022-10-08%2001-17-31.png" alt="Alt text" title="Optional title">
 
 
 #### Load Test
@@ -42,4 +43,4 @@ An easy way to get started with a Express server offering a REST API with Node.j
 - Install Jmeter
 - Open hello_world.jmx on jmeter (Can be found in the root directory)
 - CLick the play button
-<img src="https://monosnap.com/file/epH1s5nZjiYsqyHHspG2a06R433ize" alt="Alt text" title="Load Test with Jmeter">
+<img src="img/Screenshot%202022-10-08%20at%2001.20.37.png" alt="Alt text" title="Load Test with Jmeter">
